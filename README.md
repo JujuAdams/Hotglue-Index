@@ -1,1 +1,1 @@
-# Hotglue-Index
+# Hotglue Index
